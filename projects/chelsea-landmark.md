@@ -12,5 +12,3 @@ project_fg_color: ''
 Das sind unsere Karten...
 
 so ist es
-
-![](/uploads/mike-dorner-173502-unsplash.jpg)
