@@ -9,6 +9,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-Das sind unsere Karten
+Das sind unsere Karten...
 
 ![](/uploads/mike-dorner-173502-unsplash.jpg)
