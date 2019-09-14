@@ -12,8 +12,8 @@ sections:
   templates:
   - project
 - type: directory
-  path: journal
-  label: Journal
+  path: gdd
+  label: Game Design Document
   create: documents
   match: "**/*.md"
   templates:
